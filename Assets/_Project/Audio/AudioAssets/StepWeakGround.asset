@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 049b57a875628604e9bf6673cc6bac64, type: 3}
+  m_Name: StepWeakGround
+  m_EditorClassIdentifier: 
+  description: Player steps on crunchy ground
+  audioClips:
+  - {fileID: 8300000, guid: 9c5ec7f5d7e73bd4eafcb22f780933bf, type: 3}
+  - {fileID: 8300000, guid: 7b0c0e5691bc041409e760e5354ef9cc, type: 3}
+  - {fileID: 8300000, guid: c58914b76e9b9b44981a7ad50c66bec3, type: 3}
+  - {fileID: 8300000, guid: 001744a459bcc3748848d26306f46ff9, type: 3}
+  - {fileID: 8300000, guid: e0a5b17f324a6a04691584811e431c73, type: 3}
+  pitchVariationRange: 0.064

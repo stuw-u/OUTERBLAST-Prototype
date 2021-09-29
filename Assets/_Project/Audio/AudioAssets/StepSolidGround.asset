@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 049b57a875628604e9bf6673cc6bac64, type: 3}
+  m_Name: StepSolidGround
+  m_EditorClassIdentifier: 
+  description: Player steps on solid ground
+  audioClips:
+  - {fileID: 8300000, guid: 956e028d850b64f4683a6c9156e828f7, type: 3}
+  - {fileID: 8300000, guid: cec80f6eaeff11443ab0240ce140b346, type: 3}
+  - {fileID: 8300000, guid: 5b50b1bf3f78b214ab35c83a3645eecb, type: 3}
+  - {fileID: 8300000, guid: 521d0c76317123043ab640f1f340284a, type: 3}
+  pitchVariationRange: 0.064

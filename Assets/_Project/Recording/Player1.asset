@@ -1,0 +1,6671 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9b3091337734f2245a2abca29195b6e1, type: 3}
+  m_Name: Player1
+  m_EditorClassIdentifier: 
+  inputSnapshots:
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 3.1200004
+      y: 33.839985
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 3.1200004
+      y: 33.839985
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 3.1200004
+      y: 33.839985
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 3.1200004
+      y: 33.839985
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 3.1200004
+      y: 33.839985
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 3.1200004
+      y: 33.839985
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 3.1200004
+      y: 33.839985
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 3.1200004
+      y: 33.839985
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 3.1200004
+      y: 33.839985
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 3.1200004
+      y: 33.839985
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 3.1200004
+      y: 33.839985
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 3.1200004
+      y: 33.839985
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 3.1200004
+      y: 33.839985
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 3.1200004
+      y: 33.839985
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 3.1200004
+      y: 33.839985
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 3.1200004
+      y: 33.839985
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 3.1200004
+      y: 33.839985
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 3.1200004
+      y: 33.839985
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 3.1200004
+      y: 33.839985
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 3.1200004
+      y: 33.839985
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 3.1200004
+      y: 33.839985
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 3.1200004
+      y: 33.839985
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 3.1200004
+      y: 33.839985
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 3.1200004
+      y: 33.839985
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 3.1200004
+      y: 33.839985
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 3.1200004
+      y: 33.839985
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 3.1200004
+      y: 33.839985
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 3.1200004
+      y: 33.839985
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 3.1200004
+      y: 33.839985
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 3.1200004
+      y: 33.839985
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 3.1200004
+      y: 33.839985
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 3.1200004
+      y: 33.839985
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 3.1200004
+      y: 33.839985
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 3.1200004
+      y: 33.839985
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 3.1200004
+      y: 33.839985
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 3.1200004
+      y: 33.839985
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 3.1200004
+      y: 33.839985
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 3.1200004
+      y: 33.839985
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 3.1200004
+      y: 33.839985
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 3.1200004
+      y: 33.839985
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 3.1200004
+      y: 33.839985
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 3.1200004
+      y: 33.839985
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 3.1200004
+      y: 33.839985
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 359.44
+      y: 32.319984
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 352.80002
+      y: 28.639984
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 350.00003
+      y: 27.599985
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 346.56003
+      y: 26.799986
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 339.68002
+      y: 25.359987
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 326.24
+      y: 22.63999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 314.48
+      y: 20.399992
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 299.59998
+      y: 19.039993
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 286.95996
+      y: 18.799994
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 278.07996
+      y: 18.639994
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 267.35995
+      y: 18.319994
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 258.55994
+      y: 17.839994
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 250.79994
+      y: 17.759995
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 245.59995
+      y: 17.679995
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 240.39995
+      y: 18.239994
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 238.31993
+      y: 19.199993
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 237.99992
+      y: 20.559992
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 238.47993
+      y: 22.31999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 238.79994
+      y: 22.87999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 238.79994
+      y: 22.87999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 238.79994
+      y: 22.87999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 238.79994
+      y: 22.87999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 238.79994
+      y: 22.87999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 238.79994
+      y: 22.87999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 238.79994
+      y: 22.87999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 238.79994
+      y: 22.87999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 238.79994
+      y: 22.87999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 238.79994
+      y: 22.87999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 238.79994
+      y: 22.87999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 238.79994
+      y: 22.87999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 238.79994
+      y: 22.87999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 238.63994
+      y: 22.63999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 237.75995
+      y: 20.239992
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 238.47995
+      y: 19.359993
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 240.31995
+      y: 18.079994
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 241.35995
+      y: 17.199995
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 242.31996
+      y: 16.559996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 243.27995
+      y: 16.079996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 244.79994
+      y: 15.359997
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 246.39995
+      y: 14.799997
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 248.07996
+      y: 14.239998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 250.47995
+      y: 13.199999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 251.35994
+      y: 12.639999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 251.91995
+      y: 12.16
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 252.15996
+      y: 12.08
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 252.55997
+      y: 12
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 253.11998
+      y: 11.92
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 254.23997
+      y: 11.6
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 254.95999
+      y: 11.280001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 255.76001
+      y: 10.880001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 256.32
+      y: 10.560001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 257.04
+      y: 10.080002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 258.32
+      y: 9.520002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 259.44003
+      y: 9.120003
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 261.12006
+      y: 8.720003
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 127
+    _moveAxisY: 0
+    _lookAxis:
+      x: 261.92004
+      y: 8.560003
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 0
+    _lookAxis:
+      x: 262.56003
+      y: 8.480003
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 0
+    _lookAxis:
+      x: 262.72
+      y: 8.400003
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 0
+    _lookAxis:
+      x: 262.87997
+      y: 8.400003
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 0
+    _lookAxis:
+      x: 263.43997
+      y: 8.400003
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 0
+    _lookAxis:
+      x: 263.75995
+      y: 8.400003
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 0
+    _lookAxis:
+      x: 263.75995
+      y: 8.400003
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 0
+    _lookAxis:
+      x: 263.75995
+      y: 8.400003
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 263.67996
+      y: 8.400003
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 263.99997
+      y: 8.960003
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 264.47998
+      y: 9.520002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 264.71997
+      y: 9.840002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 264.79996
+      y: 10.160002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 264.47995
+      y: 10.320002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 264.15994
+      y: 10.480001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 264.07996
+      y: 10.560001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 264.07996
+      y: 10.640001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 264.07996
+      y: 10.640001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 264.07996
+      y: 10.640001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 264.07996
+      y: 10.640001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 264.07996
+      y: 10.640001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 264.07996
+      y: 10.640001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 264.07996
+      y: 10.640001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 264.07996
+      y: 10.640001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 264.07996
+      y: 10.640001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 254
+    _lookAxis:
+      x: 263.99997
+      y: 10.640001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 254
+    _lookAxis:
+      x: 263.99997
+      y: 10.640001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 254
+    _lookAxis:
+      x: 263.99997
+      y: 10.640001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 254
+    _lookAxis:
+      x: 263.99997
+      y: 10.640001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 254
+    _lookAxis:
+      x: 264.07996
+      y: 10.640001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 254
+    _lookAxis:
+      x: 264.07996
+      y: 10.640001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 254
+    _lookAxis:
+      x: 264.07996
+      y: 10.640001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 254
+    _lookAxis:
+      x: 264.07996
+      y: 10.640001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 254
+    _lookAxis:
+      x: 264.07996
+      y: 10.640001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 254
+    _lookAxis:
+      x: 264.07996
+      y: 10.640001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 254
+    _lookAxis:
+      x: 264.07996
+      y: 10.640001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 264.07996
+      y: 10.640001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 264.07996
+      y: 10.640001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 264.07996
+      y: 10.640001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 264.07996
+      y: 10.560001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 263.99997
+      y: 10.560001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 263.99997
+      y: 10.560001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 263.99997
+      y: 10.560001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 263.99997
+      y: 10.560001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 263.99997
+      y: 10.560001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 263.99997
+      y: 10.560001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 263.99997
+      y: 10.560001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 263.91998
+      y: 10.560001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 263.84
+      y: 10.480001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 263.68002
+      y: 10.400002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 263.60004
+      y: 10.400002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 263.44006
+      y: 10.320002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 263.44006
+      y: 10.320002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 263.44006
+      y: 10.320002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 263.44006
+      y: 10.320002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 263.36008
+      y: 10.320002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 263.2801
+      y: 10.320002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 263.0401
+      y: 10.320002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.8001
+      y: 10.320002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.64014
+      y: 10.320002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.56015
+      y: 10.320002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.56015
+      y: 10.320002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.56015
+      y: 10.320002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.56015
+      y: 10.320002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.56015
+      y: 10.320002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.56015
+      y: 10.320002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.56015
+      y: 10.320002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.56015
+      y: 10.320002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.56015
+      y: 10.320002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.56015
+      y: 10.320002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.48016
+      y: 10.240002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.40018
+      y: 10.240002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.40018
+      y: 10.240002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.40018
+      y: 10.240002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.40018
+      y: 10.240002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.40018
+      y: 10.160002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.40018
+      y: 10.160002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.40018
+      y: 10.160002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.40018
+      y: 10.160002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.3202
+      y: 10.160002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.3202
+      y: 10.160002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.3202
+      y: 10.160002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.3202
+      y: 10.160002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.3202
+      y: 10.160002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.3202
+      y: 10.160002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.3202
+      y: 10.160002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.3202
+      y: 10.240002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.3202
+      y: 10.240002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.3202
+      y: 10.240002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.3202
+      y: 10.240002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.3202
+      y: 10.240002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.3202
+      y: 10.240002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.3202
+      y: 10.240002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.3202
+      y: 10.240002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.3202
+      y: 10.240002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.3202
+      y: 10.240002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.3202
+      y: 10.240002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.3202
+      y: 10.240002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.3202
+      y: 10.240002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.3202
+      y: 10.160002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.3202
+      y: 10.160002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.3202
+      y: 10.160002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.3202
+      y: 10.160002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.3202
+      y: 10.160002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.3202
+      y: 10.160002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.3202
+      y: 10.160002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.3202
+      y: 10.160002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.3202
+      y: 10.160002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.3202
+      y: 10.160002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.3202
+      y: 10.160002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.3202
+      y: 10.160002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.3202
+      y: 10.160002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.3202
+      y: 10.160002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.3202
+      y: 10.160002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.3202
+      y: 10.160002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.3202
+      y: 10.160002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.3202
+      y: 10.160002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.3202
+      y: 10.160002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.3202
+      y: 10.160002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.3202
+      y: 10.160002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.3202
+      y: 10.160002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.40018
+      y: 10.240002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.40018
+      y: 10.240002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.40018
+      y: 10.240002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.40018
+      y: 10.240002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.40018
+      y: 10.320002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.48016
+      y: 10.640001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.56015
+      y: 11.120001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.64014
+      y: 11.76
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.72012
+      y: 12.16
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.64014
+      y: 13.28
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.56015
+      y: 13.999999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.3202
+      y: 14.639998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.08023
+      y: 15.279998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 261.84027
+      y: 15.839997
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 261.6803
+      y: 16.559998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 261.52032
+      y: 17.119997
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 261.28036
+      y: 17.599997
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 261.1204
+      y: 17.919996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 261.1204
+      y: 17.999996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 261.1204
+      y: 17.999996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 261.1204
+      y: 17.999996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 261.1204
+      y: 17.999996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 261.1204
+      y: 17.999996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 261.1204
+      y: 17.999996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 261.1204
+      y: 17.999996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 261.28036
+      y: 17.999996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 261.44034
+      y: 17.839996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 261.6003
+      y: 17.759996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 261.6003
+      y: 17.759996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 261.6803
+      y: 17.679996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 261.6803
+      y: 17.679996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 261.6803
+      y: 17.679996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 254
+    _lookAxis:
+      x: 261.6803
+      y: 17.679996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 254
+    _lookAxis:
+      x: 261.6803
+      y: 17.679996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 254
+    _lookAxis:
+      x: 261.6803
+      y: 17.679996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 254
+    _lookAxis:
+      x: 261.6803
+      y: 17.679996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 254
+    _lookAxis:
+      x: 261.6803
+      y: 17.679996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 254
+    _lookAxis:
+      x: 261.6803
+      y: 17.519997
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 254
+    _lookAxis:
+      x: 261.84027
+      y: 17.359997
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 254
+    _lookAxis:
+      x: 261.92026
+      y: 16.799997
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 254
+    _lookAxis:
+      x: 261.92026
+      y: 16.239998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 254
+    _lookAxis:
+      x: 261.92026
+      y: 15.759998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 261.92026
+      y: 15.199999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 261.92026
+      y: 14.639999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 261.92026
+      y: 14.24
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 262.08023
+      y: 13.68
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 262.4002
+      y: 12.960001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 262.4802
+      y: 12.400002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 262.80017
+      y: 11.680002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 262.88016
+      y: 11.3600025
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 262.96014
+      y: 11.040003
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 263.12012
+      y: 10.800003
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 263.2001
+      y: 10.800003
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 263.2801
+      y: 10.800003
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 263.44006
+      y: 10.720003
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 263.76
+      y: 10.720003
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 264
+      y: 10.640003
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 264.39996
+      y: 10.560003
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 264.95996
+      y: 10.400003
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 265.83994
+      y: 10.240004
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 266.47992
+      y: 10.080004
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 267.1199
+      y: 10.000004
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 267.8399
+      y: 9.920004
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 268.4799
+      y: 9.920004
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 268.87988
+      y: 9.920004
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 269.19986
+      y: 9.840004
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 269.43982
+      y: 9.840004
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 269.91977
+      y: 9.920004
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 270.47977
+      y: 10.000004
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 271.11975
+      y: 10.160004
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 127
+    _moveAxisY: 0
+    _lookAxis:
+      x: 272.15976
+      y: 10.480003
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 127
+    _moveAxisY: 0
+    _lookAxis:
+      x: 273.19974
+      y: 10.720003
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 127
+    _moveAxisY: 0
+    _lookAxis:
+      x: 274.07974
+      y: 10.880003
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 127
+    _moveAxisY: 0
+    _lookAxis:
+      x: 274.87973
+      y: 11.040003
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 127
+    _moveAxisY: 0
+    _lookAxis:
+      x: 275.43973
+      y: 11.120003
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 127
+    _moveAxisY: 0
+    _lookAxis:
+      x: 275.99973
+      y: 11.200003
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 215
+    _moveAxisY: 37
+    _lookAxis:
+      x: 276.4797
+      y: 11.200003
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 3
+    _moveAxisX: 215
+    _moveAxisY: 37
+    _lookAxis:
+      x: 276.5597
+      y: 11.200003
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 3
+    _moveAxisX: 215
+    _moveAxisY: 37
+    _lookAxis:
+      x: 276.5597
+      y: 11.200003
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 3
+    _moveAxisX: 215
+    _moveAxisY: 37
+    _lookAxis:
+      x: 276.5597
+      y: 11.200003
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 3
+    _moveAxisX: 215
+    _moveAxisY: 37
+    _lookAxis:
+      x: 276.5597
+      y: 11.200003
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 215
+    _moveAxisY: 37
+    _lookAxis:
+      x: 276.5597
+      y: 11.200003
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 215
+    _moveAxisY: 37
+    _lookAxis:
+      x: 276.5597
+      y: 11.280003
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 276.79965
+      y: 11.280003
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 276.79965
+      y: 11.440002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 276.79965
+      y: 11.520002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 276.71967
+      y: 11.520002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 276.63968
+      y: 11.520002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 276.63968
+      y: 11.520002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 276.63968
+      y: 11.520002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 276.63968
+      y: 11.520002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 276.63968
+      y: 11.520002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 276.63968
+      y: 11.520002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 276.5597
+      y: 11.520002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 276.5597
+      y: 11.520002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 276.39972
+      y: 11.600002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 276.39972
+      y: 11.600002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 276.39972
+      y: 11.600002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 276.39972
+      y: 11.600002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 276.39972
+      y: 11.600002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 276.39972
+      y: 11.600002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 276.31973
+      y: 11.600002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 276.23975
+      y: 11.600002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 276.07977
+      y: 11.600002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 275.83978
+      y: 11.520002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 275.7598
+      y: 11.440002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 275.51984
+      y: 11.3600025
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 275.19986
+      y: 11.3600025
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 275.0399
+      y: 11.280003
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 274.87988
+      y: 11.280003
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 274.6399
+      y: 11.280003
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 274.31992
+      y: 11.120003
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 273.75992
+      y: 11.040003
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 273.11993
+      y: 10.960003
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 272.47992
+      y: 10.800003
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 271.83994
+      y: 10.640003
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 271.27994
+      y: 10.480003
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 270.55994
+      y: 10.3200035
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 269.91995
+      y: 10.160004
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 269.35995
+      y: 10.080004
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 269.03998
+      y: 10.080004
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 268.63998
+      y: 10.080004
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 267.99997
+      y: 10.080004
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 267.43997
+      y: 10.080004
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 266.72
+      y: 10.160004
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 266.24
+      y: 10.160004
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 265.68
+      y: 10.240004
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 265.6
+      y: 10.240004
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 265.52002
+      y: 10.3200035
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 265.44003
+      y: 10.3200035
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 265.28006
+      y: 10.3200035
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 264.88007
+      y: 10.400003
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 264.1601
+      y: 10.640003
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 263.6801
+      y: 10.880003
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 263.12012
+      y: 11.120003
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 262.56012
+      y: 11.3600025
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 261.84012
+      y: 11.600002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 261.12012
+      y: 11.920002
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 260.00015
+      y: 12.480001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 259.20016
+      y: 12.960001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 127
+    _moveAxisY: 254
+    _lookAxis:
+      x: 258.32016
+      y: 13.6
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 127
+    _moveAxisY: 254
+    _lookAxis:
+      x: 257.44016
+      y: 14.4
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 254
+    _lookAxis:
+      x: 256.72015
+      y: 15.199999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 254
+    _lookAxis:
+      x: 255.92015
+      y: 15.999998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 254
+    _lookAxis:
+      x: 255.36014
+      y: 16.559998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 254
+    _lookAxis:
+      x: 254.80013
+      y: 17.279997
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 127
+    _moveAxisY: 254
+    _lookAxis:
+      x: 254.24011
+      y: 18.319996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 127
+    _moveAxisY: 254
+    _lookAxis:
+      x: 253.6801
+      y: 19.359995
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 253.4401
+      y: 20.079994
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 253.28009
+      y: 20.959993
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 253.12009
+      y: 21.999992
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 253.12009
+      y: 22.559992
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 253.04008
+      y: 22.879992
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 252.96008
+      y: 23.119991
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 252.96008
+      y: 23.359991
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 252.96008
+      y: 23.75999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 252.88008
+      y: 24.87999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 252.80008
+      y: 25.599989
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 252.72008
+      y: 26.239988
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 252.64008
+      y: 26.399988
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 252.64008
+      y: 26.399988
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 252.64008
+      y: 26.399988
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 252.64008
+      y: 26.399988
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 252.64008
+      y: 26.399988
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 252.64008
+      y: 26.399988
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 252.64008
+      y: 26.399988
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 252.64008
+      y: 26.399988
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 252.64008
+      y: 26.399988
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 252.64008
+      y: 26.399988
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 252.72008
+      y: 26.399988
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 253.20009
+      y: 26.399988
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 254.0001
+      y: 26.239988
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 255.12012
+      y: 25.759989
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 255.84012
+      y: 25.43999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 256.9601
+      y: 24.87999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 257.3601
+      y: 24.63999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 257.60007
+      y: 24.31999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 257.92004
+      y: 23.75999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 258.72003
+      y: 22.719992
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 259.52002
+      y: 21.759993
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 260.56
+      y: 20.719994
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 261.84
+      y: 19.439995
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.63998
+      y: 18.479996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 263.36
+      y: 17.439997
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 263.75998
+      y: 16.799997
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 264.4
+      y: 15.999998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 264.96
+      y: 15.519999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 265.83997
+      y: 14.959999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 266.47995
+      y: 14.639999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 267.43997
+      y: 14.16
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 268.63998
+      y: 13.52
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 269.27997
+      y: 13.120001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 269.75998
+      y: 12.720001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 269.99994
+      y: 12.640001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 270.47992
+      y: 12.560001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 270.7999
+      y: 12.560001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 271.19986
+      y: 12.480001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 271.59985
+      y: 12.480001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 271.99985
+      y: 12.480001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 0
+    _lookAxis:
+      x: 272.2398
+      y: 12.480001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 0
+    _lookAxis:
+      x: 272.3198
+      y: 12.480001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 0
+    _lookAxis:
+      x: 272.3198
+      y: 12.480001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 0
+    _lookAxis:
+      x: 272.3198
+      y: 12.480001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 0
+    _lookAxis:
+      x: 272.55975
+      y: 12.560001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 37
+    _lookAxis:
+      x: 272.87973
+      y: 12.720001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 215
+    _moveAxisY: 37
+    _lookAxis:
+      x: 273.27972
+      y: 12.880001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 215
+    _moveAxisY: 37
+    _lookAxis:
+      x: 273.6797
+      y: 12.960001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 215
+    _moveAxisY: 37
+    _lookAxis:
+      x: 273.75967
+      y: 13.040001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 215
+    _moveAxisY: 37
+    _lookAxis:
+      x: 273.75967
+      y: 13.040001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 215
+    _moveAxisY: 37
+    _lookAxis:
+      x: 273.75967
+      y: 13.040001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 215
+    _moveAxisY: 37
+    _lookAxis:
+      x: 273.75967
+      y: 13.040001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 215
+    _moveAxisY: 37
+    _lookAxis:
+      x: 273.83966
+      y: 13.040001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 215
+    _moveAxisY: 37
+    _lookAxis:
+      x: 273.99963
+      y: 13.280001
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 215
+    _moveAxisY: 37
+    _lookAxis:
+      x: 274.2396
+      y: 13.52
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 215
+    _moveAxisY: 37
+    _lookAxis:
+      x: 274.47955
+      y: 13.68
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 215
+    _moveAxisY: 37
+    _lookAxis:
+      x: 274.55954
+      y: 13.84
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 215
+    _moveAxisY: 37
+    _lookAxis:
+      x: 274.7195
+      y: 13.84
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 274.7195
+      y: 13.92
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 274.7195
+      y: 14
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 274.7195
+      y: 14.08
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 274.63953
+      y: 14.16
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 274.47955
+      y: 14.4
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 274.31958
+      y: 14.48
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 273.99963
+      y: 14.879999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 273.67966
+      y: 15.199999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 273.35968
+      y: 15.519999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 273.1197
+      y: 15.839998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 273.0397
+      y: 15.839998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 273.0397
+      y: 15.839998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 273.0397
+      y: 15.839998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 273.0397
+      y: 15.839998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 273.0397
+      y: 15.839998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 273.0397
+      y: 15.919998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 272.95972
+      y: 16.079998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 272.79974
+      y: 16.319998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 272.79974
+      y: 16.319998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 272.79974
+      y: 16.319998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 272.79974
+      y: 16.319998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 272.79974
+      y: 16.319998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 272.79974
+      y: 16.319998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 272.79974
+      y: 16.319998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 272.79974
+      y: 16.319998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 272.79974
+      y: 16.319998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 272.79974
+      y: 16.319998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 272.79974
+      y: 16.319998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 272.71976
+      y: 16.319998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 272.63977
+      y: 16.319998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 272.31976
+      y: 16.399998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 272.23978
+      y: 16.479998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 271.9198
+      y: 16.479998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 271.9198
+      y: 16.559998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 271.75983
+      y: 16.559998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 271.59985
+      y: 16.639997
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 271.19986
+      y: 16.719997
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 270.71988
+      y: 16.799997
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 270.15988
+      y: 16.799997
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 269.51987
+      y: 16.879997
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 269.03986
+      y: 16.879997
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 268.71988
+      y: 16.879997
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 268.2399
+      y: 16.799997
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 268.07993
+      y: 16.719997
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 267.67993
+      y: 16.639997
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 267.03995
+      y: 16.479998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 266.31998
+      y: 16.319998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 265.52
+      y: 16.159998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 264.56003
+      y: 15.999998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 264.16006
+      y: 15.919998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 263.8401
+      y: 15.919998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 263.60013
+      y: 15.839998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 263.28015
+      y: 15.759998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 254
+    _lookAxis:
+      x: 262.96017
+      y: 15.759998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 254
+    _lookAxis:
+      x: 262.32016
+      y: 15.679998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 254
+    _lookAxis:
+      x: 261.76016
+      y: 15.599998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 254
+    _lookAxis:
+      x: 260.88016
+      y: 15.519999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 260.24017
+      y: 15.519999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 259.7602
+      y: 15.519999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 259.6802
+      y: 15.519999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 259.60022
+      y: 15.519999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 259.52023
+      y: 15.519999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 259.36026
+      y: 15.519999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 259.20026
+      y: 15.519999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 258.64026
+      y: 15.519999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 258.08026
+      y: 15.519999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 257.44025
+      y: 15.599998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 256.80026
+      y: 15.839998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 256.32028
+      y: 16.079998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 255.84027
+      y: 16.239998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 255.28026
+      y: 16.399998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 254.56024
+      y: 16.719997
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 253.84023
+      y: 17.039997
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 252.72023
+      y: 17.519997
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 251.12022
+      y: 18.559996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 250.08023
+      y: 19.199995
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 248.88023
+      y: 20.159994
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 248.24022
+      y: 21.119993
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 247.84021
+      y: 22.239992
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 247.5202
+      y: 23.67999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 247.4402
+      y: 25.03999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 247.6002
+      y: 27.119987
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 247.92021
+      y: 28.559986
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 248.16022
+      y: 29.519985
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 248.48022
+      y: 30.319984
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 249.04024
+      y: 31.519983
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 249.68025
+      y: 32.639984
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 250.32027
+      y: 33.759987
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 250.88028
+      y: 34.79999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 251.20029
+      y: 35.119995
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 251.44029
+      y: 35.28
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 251.6003
+      y: 35.28
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 251.6803
+      y: 35.28
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 251.8403
+      y: 35.28
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 252.0003
+      y: 35.28
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 252.0803
+      y: 35.28
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 252.16031
+      y: 35.28
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 252.40031
+      y: 35.28
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 252.88033
+      y: 35.28
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 253.28033
+      y: 35.28
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 253.60034
+      y: 35.119995
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 254.00035
+      y: 34.87999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 254.64037
+      y: 34.399986
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 255.12038
+      y: 33.919987
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 255.60039
+      y: 33.279984
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 256.1604
+      y: 32.559982
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 256.4004
+      y: 32.15998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 256.9604
+      y: 30.959982
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 257.28036
+      y: 29.919983
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 257.60037
+      y: 29.119984
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 257.92035
+      y: 27.839985
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 258.24036
+      y: 26.479986
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 258.40036
+      y: 25.759987
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 258.88034
+      y: 23.759987
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 259.6003
+      y: 21.919989
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 260.7203
+      y: 20.31999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 261.8403
+      y: 19.039991
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 263.0403
+      y: 17.759993
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 264.0803
+      y: 16.559994
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 264.5603
+      y: 16.079994
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 0
+    _lookAxis:
+      x: 264.80026
+      y: 15.679995
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 0
+    _lookAxis:
+      x: 265.1202
+      y: 15.599995
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 0
+    _lookAxis:
+      x: 265.36017
+      y: 15.519995
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 0
+    _lookAxis:
+      x: 265.52014
+      y: 15.439995
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 0
+    _lookAxis:
+      x: 265.9201
+      y: 15.359995
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 0
+    _lookAxis:
+      x: 266.4001
+      y: 15.279995
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 0
+    _lookAxis:
+      x: 267.44006
+      y: 14.959995
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 0
+    _lookAxis:
+      x: 268.24005
+      y: 14.7199955
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 37
+    _lookAxis:
+      x: 269.04004
+      y: 14.479996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 37
+    _lookAxis:
+      x: 269.36002
+      y: 14.319996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 37
+    _lookAxis:
+      x: 269.59998
+      y: 14.239996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 37
+    _lookAxis:
+      x: 269.67996
+      y: 14.239996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 37
+    _lookAxis:
+      x: 269.67996
+      y: 14.239996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 37
+    _lookAxis:
+      x: 269.67996
+      y: 14.239996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 37
+    _lookAxis:
+      x: 269.67996
+      y: 14.239996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 37
+    _lookAxis:
+      x: 269.67996
+      y: 14.239996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 37
+    _lookAxis:
+      x: 269.67996
+      y: 14.239996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 215
+    _moveAxisY: 37
+    _lookAxis:
+      x: 269.67996
+      y: 14.239996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 215
+    _moveAxisY: 37
+    _lookAxis:
+      x: 269.67996
+      y: 14.239996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 215
+    _moveAxisY: 37
+    _lookAxis:
+      x: 269.67996
+      y: 14.239996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 215
+    _moveAxisY: 37
+    _lookAxis:
+      x: 269.52
+      y: 14.239996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 215
+    _moveAxisY: 37
+    _lookAxis:
+      x: 269.28003
+      y: 14.159996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 215
+    _moveAxisY: 37
+    _lookAxis:
+      x: 269.28003
+      y: 14.159996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 269.28003
+      y: 14.159996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 269.28003
+      y: 14.159996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 269.28003
+      y: 14.159996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 269.28003
+      y: 14.159996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 269.36002
+      y: 14.159996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 269.59998
+      y: 14.079996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 269.75995
+      y: 14.079996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 269.75995
+      y: 14.079996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 269.75995
+      y: 14.079996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 269.83994
+      y: 14.079996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 270.07993
+      y: 14.239996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 270.7199
+      y: 14.479996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 271.75992
+      y: 14.959995
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 272.47992
+      y: 15.359995
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 272.7199
+      y: 15.839994
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 272.7199
+      y: 16.239994
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 272.47995
+      y: 16.799994
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 272.24
+      y: 17.359993
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 271.68
+      y: 17.919992
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 271.04
+      y: 18.559992
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 270.16
+      y: 19.199991
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 269.6
+      y: 19.51999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 269.28003
+      y: 19.59999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 269.28003
+      y: 19.67999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 269.28003
+      y: 19.67999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 269.28003
+      y: 19.67999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 269.36002
+      y: 19.83999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 269.36002
+      y: 19.83999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 269.36002
+      y: 19.91999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 269.36002
+      y: 19.83999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 269.36002
+      y: 19.75999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 269.36002
+      y: 19.75999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 269.36002
+      y: 19.75999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 269.36002
+      y: 19.75999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 269.36002
+      y: 19.75999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 269.36002
+      y: 19.75999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 269.36002
+      y: 19.75999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 269.36002
+      y: 19.75999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 269.36002
+      y: 19.75999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 269.36002
+      y: 19.75999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 269.28003
+      y: 19.67999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 269.04007
+      y: 19.59999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 268.8801
+      y: 19.51999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 268.6401
+      y: 19.279991
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 268.48013
+      y: 19.199991
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 268.32016
+      y: 19.199991
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 268.24017
+      y: 19.119991
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 268.0802
+      y: 19.039991
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 267.92023
+      y: 18.959991
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 267.76025
+      y: 18.959991
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 267.60028
+      y: 18.879992
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 267.36032
+      y: 18.799992
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 267.12036
+      y: 18.639992
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 266.8804
+      y: 18.559992
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 266.56042
+      y: 18.399992
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 266.24045
+      y: 18.319992
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 265.84048
+      y: 18.079992
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 265.4405
+      y: 17.919992
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 264.6405
+      y: 17.519993
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 264.0805
+      y: 17.279993
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 263.28052
+      y: 16.879993
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.72052
+      y: 16.559994
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 262.08054
+      y: 16.319994
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 261.20053
+      y: 15.999994
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 260.48056
+      y: 15.839994
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 259.84058
+      y: 15.599995
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 258.88058
+      y: 15.439995
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 258.0806
+      y: 15.359995
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 257.0406
+      y: 15.279995
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 255.76059
+      y: 15.279995
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 254
+    _lookAxis:
+      x: 254.8006
+      y: 15.199995
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 254
+    _lookAxis:
+      x: 253.76059
+      y: 15.199995
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 254
+    _lookAxis:
+      x: 252.72057
+      y: 15.119995
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 254
+    _lookAxis:
+      x: 252.16055
+      y: 15.039995
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 254
+    _lookAxis:
+      x: 251.68054
+      y: 15.039995
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 251.28053
+      y: 14.959995
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 251.04053
+      y: 14.959995
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 250.56052
+      y: 15.039995
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 250.1605
+      y: 15.119995
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 249.9205
+      y: 15.279995
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 249.6005
+      y: 15.439995
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 249.44049
+      y: 15.519995
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 249.20049
+      y: 15.679995
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 248.96048
+      y: 15.839994
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 248.80048
+      y: 16.159994
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 248.64047
+      y: 16.479994
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 248.48047
+      y: 16.959993
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 248.24046
+      y: 17.359993
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 247.92046
+      y: 17.839993
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 247.36044
+      y: 18.479992
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 246.56042
+      y: 19.59999
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 245.36043
+      y: 21.679989
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 244.32042
+      y: 23.679987
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 243.84041
+      y: 24.879986
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 243.6804
+      y: 25.759985
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 243.6004
+      y: 26.879984
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 243.5204
+      y: 29.679981
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 243.7604
+      y: 31.999983
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 245.2804
+      y: 36.95998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 246.88037
+      y: 40.799976
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 247.84038
+      y: 42.399975
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 248.24039
+      y: 43.039974
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 248.32039
+      y: 43.039974
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 248.40039
+      y: 43.039974
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 248.40039
+      y: 43.039974
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 248.4804
+      y: 43.039974
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 249.20041
+      y: 42.959972
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 250.08041
+      y: 43.039974
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 250.72043
+      y: 43.27998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 251.28044
+      y: 43.35998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 252.08046
+      y: 43.27998
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 252.64047
+      y: 43.119976
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 252.96048
+      y: 42.87997
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 253.28049
+      y: 42.479965
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 253.5205
+      y: 42.15996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 253.6805
+      y: 41.99996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 253.8405
+      y: 41.91996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 253.8405
+      y: 41.83996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 253.9205
+      y: 41.67996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 254.24051
+      y: 41.199955
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 254.72052
+      y: 40.079952
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 255.20053
+      y: 38.55995
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 255.84055
+      y: 36.23995
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 256.24054
+      y: 34.719948
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 256.56052
+      y: 33.519943
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 256.88052
+      y: 32.479942
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 257.44052
+      y: 31.279943
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 257.9205
+      y: 30.079945
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 258.72052
+      y: 28.239946
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 259.7605
+      y: 25.35995
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 260.2405
+      y: 23.83995
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 260.5605
+      y: 22.399952
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 260.96045
+      y: 20.799953
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 261.36044
+      y: 19.599955
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 262.00046
+      y: 18.399956
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 262.80045
+      y: 16.559958
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 263.44043
+      y: 15.359958
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 264.40042
+      y: 14.079958
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 265.2004
+      y: 13.119959
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 0
+    _lookAxis:
+      x: 265.6004
+      y: 12.31996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 0
+    _lookAxis:
+      x: 265.76038
+      y: 11.83996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 0
+    _lookAxis:
+      x: 266.08035
+      y: 11.199961
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 0
+    _lookAxis:
+      x: 266.64035
+      y: 10.479961
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 0
+    _lookAxis:
+      x: 267.20032
+      y: 9.919962
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 0
+    _lookAxis:
+      x: 267.4403
+      y: 9.679962
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 0
+    _lookAxis:
+      x: 267.6803
+      y: 9.519962
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 0
+    _lookAxis:
+      x: 267.76028
+      y: 9.519962
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 37
+    _lookAxis:
+      x: 267.76028
+      y: 9.439962
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 37
+    _lookAxis:
+      x: 267.76028
+      y: 9.439962
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 37
+    _lookAxis:
+      x: 267.76028
+      y: 9.439962
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 37
+    _lookAxis:
+      x: 267.76028
+      y: 9.439962
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 37
+    _lookAxis:
+      x: 267.76028
+      y: 9.439962
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 37
+    _lookAxis:
+      x: 267.76028
+      y: 9.439962
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 215
+    _moveAxisY: 37
+    _lookAxis:
+      x: 267.76028
+      y: 9.439962
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 215
+    _moveAxisY: 37
+    _lookAxis:
+      x: 267.6803
+      y: 9.519962
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 267.52032
+      y: 9.519962
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 267.44034
+      y: 9.599962
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 267.20035
+      y: 9.759962
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 267.12036
+      y: 9.839962
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 267.04037
+      y: 9.839962
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 266.9604
+      y: 9.919962
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 266.8804
+      y: 9.999962
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 266.8004
+      y: 10.079962
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 266.32043
+      y: 10.239962
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 254
+    _moveAxisY: 127
+    _lookAxis:
+      x: 265.60043
+      y: 10.559961
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 264.56042
+      y: 11.279961
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 263.28043
+      y: 12.559961
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 261.84045
+      y: 14.639963
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 261.12045
+      y: 15.599962
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 1
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 260.88046
+      y: 15.839962
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 260.16046
+      y: 16.239962
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 258.80045
+      y: 17.03996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 257.68045
+      y: 17.59996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 257.28046
+      y: 17.91996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 257.20047
+      y: 17.91996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 257.20047
+      y: 17.91996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 2
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 257.28046
+      y: 17.99996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 257.92044
+      y: 18.23996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 258.16043
+      y: 18.31996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 258.24042
+      y: 18.39996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 258.24042
+      y: 18.39996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 258.24042
+      y: 18.39996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 258.16043
+      y: 18.39996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 258.08044
+      y: 18.31996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 258.08044
+      y: 18.31996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 258.08044
+      y: 18.31996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 258.08044
+      y: 18.31996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 258.08044
+      y: 18.31996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 258.08044
+      y: 18.31996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 258.00046
+      y: 18.31996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 257.84048
+      y: 18.31996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 257.5205
+      y: 18.39996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 257.12054
+      y: 18.39996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 256.96057
+      y: 18.47996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 215
+    _moveAxisY: 215
+    _lookAxis:
+      x: 256.72058
+      y: 18.47996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 256.5606
+      y: 18.47996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 256.48062
+      y: 18.47996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 256.24066
+      y: 18.39996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 256.00067
+      y: 18.31996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 255.60066
+      y: 18.07996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 255.04065
+      y: 17.67996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 254.40063
+      y: 17.11996
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 254.00063
+      y: 16.719961
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 253.84062
+      y: 16.319962
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 253.36061
+      y: 15.519962
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 252.9606
+      y: 14.879963
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 252.6406
+      y: 14.239964
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 252.32059
+      y: 13.679964
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 215
+    _lookAxis:
+      x: 252.24059
+      y: 13.359964
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 252.24059
+      y: 13.359964
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 252.24059
+      y: 13.359964
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 253.36058
+      y: 11.999965
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 254.40057
+      y: 10.559964
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 254.88058
+      y: 10.079965
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 254.88058
+      y: 9.599965
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 254.24057
+      y: 9.1999655
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 254.24057
+      y: 9.119966
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 254.24057
+      y: 9.119966
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 254.24057
+      y: 9.119966
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 254.24057
+      y: 9.119966
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 254.24057
+      y: 9.119966
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 37
+    _moveAxisY: 37
+    _lookAxis:
+      x: 254.24057
+      y: 9.119966
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 254.24057
+      y: 9.119966
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 0
+    _moveAxisY: 127
+    _lookAxis:
+      x: 254.24057
+      y: 9.119966
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 254.24057
+      y: 9.119966
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 254.24057
+      y: 9.119966
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 254.24057
+      y: 9.119966
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 254.24057
+      y: 9.119966
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 254.24057
+      y: 9.119966
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 254.24057
+      y: 9.119966
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 254.24057
+      y: 9.119966
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 254.24057
+      y: 9.119966
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 254.24057
+      y: 9.119966
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 254.24057
+      y: 9.119966
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 254.24057
+      y: 9.119966
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 254.24057
+      y: 9.119966
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 254.24057
+      y: 9.119966
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 254.24057
+      y: 9.119966
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 254.24057
+      y: 9.119966
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 254.24057
+      y: 9.119966
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 254.24057
+      y: 9.119966
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 254.24057
+      y: 9.119966
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 254.24057
+      y: 9.119966
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 254.24057
+      y: 9.119966
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 254.24057
+      y: 9.119966
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 254.24057
+      y: 9.119966
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 254.24057
+      y: 9.119966
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 254.24057
+      y: 9.119966
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 254.24057
+      y: 9.119966
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 254.24057
+      y: 9.119966
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 254.24057
+      y: 9.119966
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 254.24057
+      y: 9.119966
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0
+  - buttons: 0
+    _moveAxisX: 127
+    _moveAxisY: 127
+    _lookAxis:
+      x: 254.24057
+      y: 9.119966
+    selectedFixedInventoryItem: 0
+    selectedInventoryItemUID: 0

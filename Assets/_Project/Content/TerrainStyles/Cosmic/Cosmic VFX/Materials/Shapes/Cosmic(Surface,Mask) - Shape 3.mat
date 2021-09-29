@@ -1,0 +1,75 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Cosmic(Surface,Mask) - Shape 3
+  m_Shader: {fileID: 4800000, guid: 923c528a00ce1f3428af34733b89b7e8, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _CosmicField:
+        m_Texture: {fileID: 2800000, guid: 66246941a3144274fa8176cfca1bfd95, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _CosmicFieldTex:
+        m_Texture: {fileID: 2800000, guid: 66246941a3144274fa8176cfca1bfd95, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _FresnelTex:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _MaskTex:
+        m_Texture: {fileID: 2800000, guid: 91333245d9b6a5848b24a53b460ce857, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _StarMap:
+        m_Texture: {fileID: 2800000, guid: 580e7698afeaf1a4c95ab9543698e5d8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _StarMapTex:
+        m_Texture: {fileID: 2800000, guid: 580e7698afeaf1a4c95ab9543698e5d8, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TextureSample0:
+        m_Texture: {fileID: 2800000, guid: e606808f5f6cb324082d8dc32a65af24, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _CosmicFieldGlow: 1
+    - _CosmicFieldSize: 4
+    - _CosmicFieldXSpeed: 0
+    - _CosmicFieldYSpeed: -0.08
+    - _Cutoff: 0.5
+    - _ForceRotatorUV: 0
+    - _FresnelXSpeed: 0
+    - _FresnelYSpeed: -0.03
+    - _MaskDistortionValue: 0.2
+    - _MaskDistortionXSpeed: 0.15
+    - _MaskDistortionYSpeed: 0.3
+    - _OverallCosmicGlow: 1
+    - _RippleValue: 0.2
+    - _StarMapGlow: 3
+    - _StarMapSize: 6
+    - _StarMapXSpeed: 0
+    - _StarMapYSpeed: -0.03
+    - _XScrollSpeed: 0.5
+    - _YScrollSpeed: 1
+    - __dirty: 0
+    m_Colors: []

@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: f1b656c71442c0d488cb8f1520c33fa3, type: 3}
+  m_Name: PlanetoidBillow
+  m_EditorClassIdentifier: 
+  name: Planetoid Billow
+  parameters:
+    planetRadius: 35
+    planetRadiusMin: 23
+    planetThinkness: 12
+    planetSmoothness: 0.5
+    baseShapeMul: 0.75
+    noiseFrequency: 0.03
+    noiseOctaveCount: 4
+    freqMul: 2
+    ampMul: 0.5
+    billowRidgedMix: 0

@@ -1,0 +1,8 @@
+> Running dianostics...
+> Attempting to connect to the BBBAT servers...
+> Error log sent
+> AI NEURAL NET saved on the cloud 
+
+<color=red>[ERROR]
+LOST CONNECTION TO THE SERVER.
+YOU WILL BE SENT BACK TO THE MAIN MENU.</color>  <color=#00000000>

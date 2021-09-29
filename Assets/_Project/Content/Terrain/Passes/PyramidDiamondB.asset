@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 3dff8463dbd8e874bb84ac18ef92c171, type: 3}
+  m_Name: PyramidDiamondB
+  m_EditorClassIdentifier: 
+  name: Diamond (B)
+  parameters:
+    minHeight: 30
+    maxHeight: 45
+    maxBaseSize: 15
+    falloff: 0.5
+    type: 1

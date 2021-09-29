@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1564a94059d6de14bacdaefeb865ccaf, type: 3}
+  m_Name: FracturedIsland
+  m_EditorClassIdentifier: 
+  name: Fractured Island
+  parameters:
+    islandTop: 10
+    islandBottom: -30
+    islandBottomMin: -20
+    islandRadius: 110
+    islandRadiusMin: 70
+    fracturationFreqency: 0.03
+    fracturationFreqencyMin: 0.06
+    fracturationOffset: 15
+    fracturationSize: 0.3
+    fracturationSizeMin: 0.25
+    noiseFrequency: 0.034
+    noiseOctaveCount: 4
+    softShapeOverlayMultiplier: 0.2
+    softShapeMaxClamp: 0.7
+    hillsMaxHeight: 8
+    minHillMul: 0.3
+    maxHillMul: 0.8
+    isBlocky: 0

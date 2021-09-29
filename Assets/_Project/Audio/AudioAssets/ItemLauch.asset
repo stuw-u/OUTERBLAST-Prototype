@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 049b57a875628604e9bf6673cc6bac64, type: 3}
+  m_Name: ItemLauch
+  m_EditorClassIdentifier: 
+  description: Projectile getting fired
+  audioClips:
+  - {fileID: 8300000, guid: cd7e914104ce16c46b370e0cebdc06ab, type: 3}
+  - {fileID: 8300000, guid: 8575d973f5eefc14788a59aa9c30ca3b, type: 3}
+  - {fileID: 8300000, guid: 696a5411aea672848ba3d78792860ef4, type: 3}
+  - {fileID: 8300000, guid: b411bd2dd4163e9439c19dc888592f1b, type: 3}
+  pitchVariationRange: 0.028

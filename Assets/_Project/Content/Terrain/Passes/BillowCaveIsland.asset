@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b1a1ccf8f81fd7a4caa2fa41d68c66d5, type: 3}
+  m_Name: BillowCaveIsland
+  m_EditorClassIdentifier: 
+  name: Billow Cave Island
+  parameters:
+    noiseFrequency: 0.026
+    noiseOctaveCount: 4
+    islandTop: 10
+    islandBottom: -40
+    islandBottomMin: -27
+    islandRadius: 100
+    islandRadiusMin: 66
+    softShapeOverlayMultiplier: 0.2
+    softShapeMaxClamp: 0.7
+    hillsMaxHeight: 16
+    minHillMul: 0.3
+    maxHillMul: 0.8

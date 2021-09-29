@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ebe1eb5d0d942a4390f6c5f29e59242, type: 3}
+  m_Name: Heavens
+  m_EditorClassIdentifier: 
+  name: Heavens
+  rarity: 2
+  terrainMaterial: {fileID: 2100000, guid: 871f6fb0283d0dd4fa098ab94b65618f, type: 2}
+  enableDeco: 1
+  decoMaterial: {fileID: 2100000, guid: aaddd4b812399dc4f94ba3d5e67f2458, type: 2}
+  decoMesh: {fileID: 4300000, guid: f98ebf4ba2cbcec429784966efb986e1, type: 2}
+  skyType: 1
+  skyColor: {r: 0.7254902, g: 0.8117647, b: 0.8509804, a: 1}
+  skybox: {fileID: 2100000, guid: 51c17d5d233920c489d6cd792644e4ae, type: 2}
+  enableFog: 1
+  fogColor: {r: 0.2, g: 0.5411765, b: 0.74509805, a: 1}
+  fogDensity: 0.015
+  enableCloud: 1
+  cloudsScaleY: 1
+  cloudsYHeight: -5
+  cloudMaterial: {fileID: 2100000, guid: 38a9200f8c8859a44b72bd9f1cb7fd9f, type: 2}
+  mainLightRotation: {x: -0.5152426, y: 0.069905475, z: -0.108052924, w: -0.8473269}
+  mainLightColor: {r: 1, g: 1, b: 1, a: 1}
+  mainLightIntensity: 1.1
+  enableShadow: 1
+  effects:
+  - {fileID: 3816565291548543116, guid: 77f634fee4f486a498139d3ff65a358d, type: 3}

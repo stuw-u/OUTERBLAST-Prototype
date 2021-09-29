@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b799018a4a9a4ec4596b6f55ae649dc7, type: 3}
+  m_Name: Ring
+  m_EditorClassIdentifier: 
+  name: Ring
+  parameters:
+    archCountX: 0
+    archCountXMin: 0
+    archCountY: 1
+    archCountYMin: 1
+    coliseumBottom: -3
+    coliseumTop: 3
+    coliseumTopMin: 3
+    coliseumRadius: 50
+    coliseumRadiusMin: 33
+    coliseumWidth: 2
+    coliseumInvWidth: 0.5

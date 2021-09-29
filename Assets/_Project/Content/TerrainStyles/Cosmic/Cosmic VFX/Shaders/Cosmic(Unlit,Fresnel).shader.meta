@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 373030be40733eb4ab05410d17309c1f
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _CosmicFieldTex: {fileID: 2800000, guid: 66246941a3144274fa8176cfca1bfd95, type: 3}
+  - _StarMapTex: {fileID: 2800000, guid: 580e7698afeaf1a4c95ab9543698e5d8, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0058e87a856df8a4aae581d5a500a3f8, type: 3}
+  m_Name: SimpleClassicCastleIsland
+  m_EditorClassIdentifier: 
+  name: Classic Island (Castle)
+  generationPasses:
+  - {fileID: 11400000, guid: bf5c07b6642f915499ecca0cc67c104d, type: 2}
+  - {fileID: 11400000, guid: 8c57bfa5ba3f91f4fbd02534589a81f2, type: 2}
+  rarity: 2
+  gravityFieldType: 0
+  effects: []
+  thumbnail: 0
+  selectionIcon: {fileID: -7511243444248959749, guid: a32eb7a01ed6ad444a0b9f9df24802de, type: 3}

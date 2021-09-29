@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b799018a4a9a4ec4596b6f55ae649dc7, type: 3}
+  m_Name: PillarSmall
+  m_EditorClassIdentifier: 
+  name: Pillar (Small)
+  parameters:
+    archCountX: 4
+    archCountXMin: 4
+    archCountY: 1
+    archCountYMin: 1
+    coliseumBottom: 10
+    coliseumTop: 30
+    coliseumTopMin: 30
+    coliseumRadius: 12
+    coliseumRadiusMin: 8
+    coliseumWidth: 6
+    coliseumInvWidth: 0.16666667

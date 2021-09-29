@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: daf3673da7e0f0a4fac6e283aafa76fd, type: 3}
+  m_Name: Grappler
+  m_EditorClassIdentifier: 
+  name: Grappler
+  icon: {fileID: -8179040606652740800, guid: afc7b13ac066ff244a775b4bca65d03a, type: 3}
+  itemMapping: 0
+  inventorySlot: 4
+  serializeOnNetwork: 0
+  visuals: {fileID: 11400000, guid: 899362293ac89ce4d8b4d5da1c81d3de, type: 2}
+  id: 6
+  activationType: 2
+  cooldown: 270
+  maxDistance: 28
+  impulseXZ: 1.9
+  impulseY: 1.5
+  arcExtension: 0
+  initialDownVelocity: -20
+  downVel: 40

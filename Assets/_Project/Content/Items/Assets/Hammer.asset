@@ -1,0 +1,28 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9d2451257dbd1e84f9f96bbcc56515c9, type: 3}
+  m_Name: Hammer
+  m_EditorClassIdentifier: 
+  name: Hammer
+  icon: {fileID: 3220665290143086019, guid: afc7b13ac066ff244a775b4bca65d03a, type: 3}
+  itemMapping: 3
+  inventorySlot: 2
+  serializeOnNetwork: 0
+  visuals: {fileID: 11400000, guid: 1f61d077bff5fc64ca6821edd58d85a4, type: 2}
+  id: 2
+  maxChargingFrames: 90
+  cooldown: 30
+  hitSphereRange: 2
+  hitSphereRadius: 3
+  hitAngleRange: 45
+  minVectorForce: 25
+  maxVectorForce: 45

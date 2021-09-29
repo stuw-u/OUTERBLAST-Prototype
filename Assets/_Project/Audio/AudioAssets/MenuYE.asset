@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 049b57a875628604e9bf6673cc6bac64, type: 3}
+  m_Name: MenuYE
+  m_EditorClassIdentifier: 
+  description: Menu validate
+  audioClips:
+  - {fileID: 8300000, guid: 9c9cfba4c5355d444a368f036c748332, type: 3}
+  pitchVariationRange: 0

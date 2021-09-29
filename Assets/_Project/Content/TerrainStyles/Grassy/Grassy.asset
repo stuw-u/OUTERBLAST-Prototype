@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ebe1eb5d0d942a4390f6c5f29e59242, type: 3}
+  m_Name: Grassy
+  m_EditorClassIdentifier: 
+  name: Grassy
+  rarity: 0
+  terrainMaterial: {fileID: 2100000, guid: 6157d964b15742d41b0257dc35c8b3c9, type: 2}
+  enableDeco: 1
+  decoMaterial: {fileID: 2100000, guid: f0fa923faafad9e40ab2f56fb5c1e847, type: 2}
+  decoMesh: {fileID: 4300000, guid: f98ebf4ba2cbcec429784966efb986e1, type: 2}
+  skyType: 1
+  skyColor: {r: 0.7254902, g: 0.8117647, b: 0.8509804, a: 1}
+  skybox: {fileID: 2100000, guid: a4f51a62a194f5e4a9c8970395e92718, type: 2}
+  enableFog: 1
+  fogColor: {r: 0.29803923, g: 0.5058824, b: 0.9137255, a: 0}
+  fogDensity: 0.01
+  enableCloud: 1
+  cloudsScaleY: -1
+  cloudsYHeight: 80
+  cloudMaterial: {fileID: 2100000, guid: 38a9200f8c8859a44b72bd9f1cb7fd9f, type: 2}
+  mainLightRotation: {x: -0.4082179, y: 0.23456979, z: -0.10938169, w: -0.87542605}
+  mainLightColor: {r: 1, g: 1, b: 1, a: 1}
+  mainLightIntensity: 1.1
+  enableShadow: 1
+  effects:
+  - {fileID: 3816565291548543116, guid: 77f634fee4f486a498139d3ff65a358d, type: 3}

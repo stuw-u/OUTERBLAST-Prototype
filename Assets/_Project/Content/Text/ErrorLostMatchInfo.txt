@@ -1,0 +1,9 @@
+> Running dianostics...
+> Attempting to connect to the BBBAT servers...
+> Error log sent
+> AI NEURAL NET saved on the cloud
+
+<color=red>[ERROR]
+MATCH INFO MISSING.
+CANNOT LOAD SIMULATION SCENE WITHOUT MATCH INFO.
+YOU WON'T BE PUT IN THE SCENE.

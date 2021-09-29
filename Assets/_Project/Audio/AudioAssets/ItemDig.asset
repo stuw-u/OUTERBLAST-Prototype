@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 049b57a875628604e9bf6673cc6bac64, type: 3}
+  m_Name: ItemDig
+  m_EditorClassIdentifier: 
+  description: Digging
+  audioClips:
+  - {fileID: 8300000, guid: e54d6058743f98d458ddaad889770b0a, type: 3}
+  - {fileID: 8300000, guid: c63d922fdcb1b204ca3091990608e84c, type: 3}
+  - {fileID: 8300000, guid: 4d459706c2c7dd943a644098dd7061b9, type: 3}
+  - {fileID: 8300000, guid: 5e1360b4530da9a4faec8d243cff08f8, type: 3}
+  - {fileID: 8300000, guid: 839d7bec77dce9942a7a143a18d5e515, type: 3}
+  pitchVariationRange: 0.05

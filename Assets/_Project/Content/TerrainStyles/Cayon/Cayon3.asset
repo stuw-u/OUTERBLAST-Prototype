@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6ebe1eb5d0d942a4390f6c5f29e59242, type: 3}
+  m_Name: Cayon3
+  m_EditorClassIdentifier: 
+  name: Chaos Cayon Night
+  rarity: 4
+  terrainMaterial: {fileID: 2100000, guid: d8b3225baf516a14b852e55c61885139, type: 2}
+  enableDeco: 1
+  decoMaterial: {fileID: 2100000, guid: b0fbf1dad1c803848b395051c71218a1, type: 2}
+  decoMesh: {fileID: 4300000, guid: f98ebf4ba2cbcec429784966efb986e1, type: 2}
+  skyType: 1
+  skyColor: {r: 0.7254902, g: 0.8117647, b: 0.8509804, a: 1}
+  skybox: {fileID: 2100000, guid: 5cf648fc1667c0b4f95db7e1d3fddd5b, type: 2}
+  enableFog: 1
+  fogColor: {r: 0.047058824, g: 0.03529412, b: 0.1764706, a: 1}
+  fogDensity: 0.003
+  enableCloud: 0
+  cloudsScaleY: -1
+  cloudsYHeight: 80
+  cloudMaterial: {fileID: 2100000, guid: 38a9200f8c8859a44b72bd9f1cb7fd9f, type: 2}
+  mainLightRotation: {x: 0.23411286, y: -0.5985427, z: 0.18871982, w: 0.742511}
+  mainLightColor: {r: 1, g: 0.99701405, b: 0.9104631, a: 1}
+  mainLightIntensity: 0.2
+  enableShadow: 1
+  effects:
+  - {fileID: 3816565291548543116, guid: 806c1a0958755234b91a6ad91e87566c, type: 3}
+  - {fileID: 8930868599093168273, guid: 6a156238447938847913d925459f209c, type: 3}

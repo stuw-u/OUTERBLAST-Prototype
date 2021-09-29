@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0058e87a856df8a4aae581d5a500a3f8, type: 3}
+  m_Name: PlanetoidRidgedRing
+  m_EditorClassIdentifier: 
+  name: Rigned Ridged Planetoid
+  generationPasses:
+  - {fileID: 11400000, guid: 3ceaf24f949cdd442bbcee66d76ccdc6, type: 2}
+  - {fileID: 11400000, guid: 1276f4b0478ebfa4686958f579b4233d, type: 2}
+  rarity: 3
+  gravityFieldType: 1
+  effects:
+  - {fileID: 3642549005923781510, guid: 2fcdbfeb0d022cf478b65b0339c27afa, type: 3}
+  thumbnail: 1
+  selectionIcon: {fileID: -154788453609541450, guid: a32eb7a01ed6ad444a0b9f9df24802de, type: 3}

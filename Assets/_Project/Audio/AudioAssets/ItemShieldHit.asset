@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 049b57a875628604e9bf6673cc6bac64, type: 3}
+  m_Name: ItemShieldHit
+  m_EditorClassIdentifier: 
+  description: Shield Hit
+  audioClips:
+  - {fileID: 8300000, guid: 455294260cb2f044d9c9ef45a2686b05, type: 3}
+  - {fileID: 8300000, guid: 655eccbd9c1806043acd10b9982d606d, type: 3}
+  - {fileID: 8300000, guid: dfb3e9d7cb9922445af55aaac7d67ce2, type: 3}
+  pitchVariationRange: 0.05

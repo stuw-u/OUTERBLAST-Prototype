@@ -1,0 +1,9 @@
+> Running dianostics...
+> Attempting to connect to the BBBAT servers...
+> Error log sent
+> AI NEURAL NET saved on the cloud 
+
+<color=red>[ERROR]
+INVALID ADRESS.
+FAILED TO PARSE ADRESS.
+VERIFY ALL CHARACTERS ARE CORRECT.

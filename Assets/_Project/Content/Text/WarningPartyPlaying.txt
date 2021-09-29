@@ -1,0 +1,2 @@
+THE PARTY'S PLAYING!@
+You must wait for the game to be over before joining... Right now there's not much to do. You could try relaxing or something. Spectating hasn't been implemented yet because it would require to send AND apply all the changed that have been made on the terrain at once. That's doable but it would take a bit of time to implement.
