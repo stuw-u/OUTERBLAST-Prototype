@@ -1,10 +1,11 @@
 {
   "dependencies": {
     "com.coffee.softmask-for-ugui": {
-      "version": "file:C:/Users/STUWU/Desktop/SoftMaskForUGUI-main",
+      "version": "https://github.com/mob-sakai/SoftMaskForUGUI.git",
       "depth": 0,
-      "source": "local",
-      "dependencies": {}
+      "source": "git",
+      "dependencies": {},
+      "hash": "f59d147fe04be6a84b3cd7eb93bce149410911be"
     },
     "com.mlapi.contrib.transport.photon-realtime": {
       "version": "https://github.com/Unity-Technologies/mlapi-community-contributions.git?path=/Transports/com.mlapi.contrib.transport.photon-realtime",
