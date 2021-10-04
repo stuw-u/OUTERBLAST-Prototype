@@ -1,6 +1,6 @@
 {
   "dependencies": {
-    "com.coffee.softmask-for-ugui": "file:C:/Users/STUWU/Desktop/SoftMaskForUGUI-main",
+    "com.coffee.softmask-for-ugui": "https://github.com/mob-sakai/SoftMaskForUGUI.git",
     "com.mlapi.contrib.transport.photon-realtime": "https://github.com/Unity-Technologies/mlapi-community-contributions.git?path=/Transports/com.mlapi.contrib.transport.photon-realtime",
     "com.unity.2d.sprite": "1.0.0",
     "com.unity.burst": "1.5.3",
