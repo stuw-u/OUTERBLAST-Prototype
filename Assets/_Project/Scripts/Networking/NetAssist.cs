@@ -42,6 +42,9 @@ public class NetAssist : MonoBehaviour {
     // Creating singleton
     public static NetAssist inst;
     private void Awake () {
+
+
+        selfUserData = new UserData(0, new UserDisplayInfo(), new UserSharedSettings());
         if(inst != null) {
             return;
         }

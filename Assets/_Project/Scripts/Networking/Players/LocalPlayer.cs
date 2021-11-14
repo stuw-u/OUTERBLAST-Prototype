@@ -128,7 +128,9 @@ public class LocalPlayer : NetworkBehaviour, ILocalPlayer {
         // Setup scene loading events
         SceneManager.sceneLoaded += OnSceneLoaded;
         SceneManager.sceneUnloaded += OnSceneUnloaded;
-        inputBufferController.Init(userData.Value.SharedSettings.inputBufferMode);
+        if(userData.Value.SharedSettings != null) {
+            inputBufferController.Init(userData.Value.SharedSettings.inputBufferMode);
+        }
         OnSceneLoaded(SceneManager.GetActiveScene(), LoadSceneMode.Single);
     }
 
@@ -235,6 +237,12 @@ public class LocalPlayer : NetworkBehaviour, ILocalPlayer {
 
     public void OnUserDataCallback () {
         coloredMpb = new MaterialPropertyBlock();
+        if(userData.Value == null) {
+            Debug.LogError("User data is null");
+            return;
+        } else if(userData.Value.DisplayInfo == null) {
+            return;
+        }
         coloredMpb.SetColor("_MainColor", userData.Value.DisplayInfo.color);
 
         if(PlayerIndicatorDisplay.inst != null) {

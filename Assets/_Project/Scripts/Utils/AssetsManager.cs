@@ -10,7 +10,7 @@ public class AssetsManager : MonoBehaviour {
     public ItemAssetCollection itemAssets;
     public ProjectileAsset[] projectileAssets;
     public TerrainTypeCollection terrainTypeCollection;
-    public ForwardRendererData pipelineAsset;
+    public UniversalRendererData pipelineAsset;
     public TerrainStyleCollection terrainStyleCollection;
 
     [Header("Mine")]

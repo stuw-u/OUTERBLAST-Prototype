@@ -9,8 +9,10 @@ MonoBehaviour:
   m_GameObject: {fileID: 0}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 585b14da1a05065429c1a4015ebe5207, type: 3}
-  m_Name: _DebugTypeCollection
-  m_EditorClassIdentifier: 
-  terrainTypes:
-  - {fileID: 11400000, guid: 08bac0aa5b45d574cbba55d76989dbb6, type: 2}
+  m_Script: {fileID: 11500000, guid: c4ee3647d9b341f42ba49690ae48a217, type: 3}
+  m_Name: MetaCavesGeneratorPass
+  m_EditorClassIdentifier: Assembly-CSharp::MetaCavesGeneratorPass
+  name: Meta Caves
+  parameters:
+    noiseFrequency: 0.01
+    noiseOctaveCount: 5

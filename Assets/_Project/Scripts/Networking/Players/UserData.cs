@@ -18,8 +18,10 @@ using Blast.Settings;
 /// </summary>
 [Serializable]
 public class UserDisplayInfo : INetworkSerializable {
-    public string username;
-    public Color color;
+    public string username = "...";
+    public Color color = Color.white;
+
+    public UserDisplayInfo () { }
 
     public UserDisplayInfo (string username, Color color) {
         this.username = username;
@@ -41,6 +43,8 @@ public class UserDisplayInfo : INetworkSerializable {
 public class UserSharedSettings : INetworkSerializable {
     public InputBufferMode inputBufferMode;
     public RecoveryStyles recoveryStyle;
+
+    public UserSharedSettings () { }
 
     public UserSharedSettings (InputBufferMode inputBufferMode, RecoveryStyles reveryStyle) {
         this.inputBufferMode = inputBufferMode;
@@ -67,9 +71,10 @@ public class UserData : INetworkSerializable {
     public UserSharedSettings SharedSettings => _userSharedSettings;
 
     private ulong _clientID;
-    private UserDisplayInfo _userDisplayInfo;
-    private UserSharedSettings _userSharedSettings;
+    private UserDisplayInfo _userDisplayInfo = new UserDisplayInfo("...", Color.white);
+    private UserSharedSettings _userSharedSettings = new UserSharedSettings();
 
+    public UserData () { }
 
     public UserData (ulong clientId, UserDisplayInfo userDisplayInfo) {
         _clientID = clientId;
@@ -83,6 +88,9 @@ public class UserData : INetworkSerializable {
     }
 
     public void NetworkSerialize (NetworkSerializer serializer) {
+        if(_userDisplayInfo == null)
+            _userDisplayInfo = new UserDisplayInfo();
+
         serializer.Serialize(ref _clientID);
         _userDisplayInfo.NetworkSerialize(serializer);
     }
